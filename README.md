@@ -1,6 +1,5 @@
 # ShopEase
-
-ShopEase is a simple PHP application that allows users to select a product, provide their details, and receive an invoice with VAT, discount, and delivery charges calculated. The application uses Bootstrap for styling.
+ShopEase is a simple web application that allows users to purchase products online. Users can enter their name and phone number, select a product, and choose their city for delivery. The application calculates the total price, including VAT and applicable discounts, and provides an invoice for the user's purchase.
 
 ## Features
 
