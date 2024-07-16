@@ -33,16 +33,16 @@
                         <label for="product">Product</label>
                         <select name="product" id="product" class="form-control">
                             <option value="Laptop">Laptop</option>
-                            <option value="Tv">Tv</option>
+                            <option value="Tv">TV</option>
                             <option value="Mobile">Mobile</option>
-                            <option value="Tshirt">Tshirt</option>
+                            <option value="Tshirt">T-shirt</option>
                         </select>
                     </div>
                     <div class="form-group">
                         <label for="city">City</label>
                         <select name="city" id="city" class="form-control">
                             <option value="cairo">Cairo</option>
-                            <option value="alex">Alex</option>
+                            <option value="alex">Alexandria</option>
                             <option value="beni suef">Beni Suef</option>
                         </select>
                     </div>
