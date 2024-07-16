@@ -29,7 +29,7 @@ ShopEase is a simple PHP application that allows users to select a product, prov
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/shopease.git
+    git clone https://github.com/emanebied/shopease.git
     ```
 
 2. Navigate to the project directory:
