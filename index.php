@@ -20,7 +20,7 @@
             </div>
 
             <div class="col-4 offset-4 mt-4">
-                <form action="" method="post">
+                <form action="invoice.php" method="post">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" class="form-control" name="name" id="name">
@@ -33,22 +33,21 @@
                         <label for="product">Product</label>
                         <select name="product" id="product" class="form-control">
                             <option value="Laptop">Laptop</option>
-                            <option value="Tv">TV</option>
+                            <option value="TV">TV</option>
                             <option value="Mobile">Mobile</option>
-                            <option value="Tshirt">T-shirt</option>
+                            <option value="T-shirt">T-shirt</option>
                         </select>
                     </div>
                     <div class="form-group">
                         <label for="city">City</label>
                         <select name="city" id="city" class="form-control">
-                            <option value="cairo">Cairo</option>
-                            <option value="alex">Alexandria</option>
-                            <option value="beni suef">Beni Suef</option>
+                            <option value="Cairo">Cairo</option>
+                            <option value="Alexandria">Alexandria</option>
+                            <option value="Beni Suef">Beni Suef</option>
                         </select>
                     </div>
                     <div class="form-group">
                         <button type=" submit" name="buy" class="btn btn-dark">Buy Now</button>
-                        <button type="submit" name="cart" class="btn btn-dark">Add to Cart</button>
                     </div>
                 </form>
 
