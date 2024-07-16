@@ -63,7 +63,7 @@ $totalPrice = $priceAfterDiscount + $delivery;
     <div class="container">
         <div class="row">
             <div class="col-12 mt-5">
-                <h1 class="text-center text-secondary">Invoive</h1>
+                <h1 class="text-center text-secondary">Invoice</h1>
             </div>
             <div class="col-4 offset-4 mt-4">
                 <div class="alert alert-success" role="alert">

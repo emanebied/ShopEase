@@ -22,7 +22,7 @@ ShopEase is a simple PHP application that allows users to select a product, prov
 
 ### Invoice Page
 
-![invoice](https://github.com/user-attachments/assets/7bb02dc7-0be9-4519-b361-27bac510fc76)
+![invoice](https://github.com/user-attachments/assets/0c693066-3de4-40da-a561-99a2ce5ba4c0)
 
 ## Installation
 
